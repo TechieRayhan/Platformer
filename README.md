@@ -7,7 +7,7 @@ player abilities:
 
 jump,run,walk,slip/swipe,
 shoot,knife,bomb throwing,
-shield,jetpack flying,
+shield,jetpack flying,etc
 
 ## Story:
 
